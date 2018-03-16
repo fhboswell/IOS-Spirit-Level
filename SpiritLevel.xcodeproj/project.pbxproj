@@ -54,12 +54,12 @@
 		948E4E50205C11EA00DC6FF9 /* SpiritLevel */ = {
 			isa = PBXGroup;
 			children = (
-				948E4E51205C11EA00DC6FF9 /* AppDelegate.swift */,
 				948E4E53205C11EA00DC6FF9 /* ViewController.swift */,
 				948E4E55205C11EA00DC6FF9 /* Main.storyboard */,
-				948E4E58205C11EA00DC6FF9 /* Assets.xcassets */,
 				948E4E5A205C11EA00DC6FF9 /* LaunchScreen.storyboard */,
 				948E4E5D205C11EA00DC6FF9 /* Info.plist */,
+				948E4E58205C11EA00DC6FF9 /* Assets.xcassets */,
+				948E4E51205C11EA00DC6FF9 /* AppDelegate.swift */,
 			);
 			path = SpiritLevel;
 			sourceTree = "<group>";
@@ -275,6 +275,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NN7HR27RDT;
 				INFOPLIST_FILE = SpiritLevel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Boswell.Instruments.SpiritLevel;
@@ -289,6 +290,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NN7HR27RDT;
 				INFOPLIST_FILE = SpiritLevel/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Boswell.Instruments.SpiritLevel;
